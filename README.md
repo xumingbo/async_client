@@ -1,6 +1,6 @@
 #async_client 
 sample code for async TCP client.
-the source file async_client.cc is self testable. It contains:
+<p/>the source file async_client.cc is self testable. It contains:
     <p/>class AsyncClient
     <p/>class MockupServer
     <p/>main() function to run the test
