@@ -1,8 +1,9 @@
-# sample code for async TCP client.
+#async_client 
+sample code for async TCP client.
 the source file async_client.cc is self testable. It contains:
-    class AsyncClient
-    class MockupServer
-main() function to run the test
+    <p/>class AsyncClient
+    <p/>class MockupServer
+    <p/>main() function to run the test
    
 To build:
 1. git clone https://github.com/libevent/libevent.git
