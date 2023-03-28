@@ -1,5 +1,8 @@
-#async_client 
-sample code for async TCP client.
+# async_client
+Sample Code of Async TCP Client
+
+## using libevent
+
 <p/>the source file async_client.cc is self testable. It contains:
     <p/>class AsyncClient
     <p/>class MockupServer
